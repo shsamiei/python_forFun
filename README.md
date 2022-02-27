@@ -1,2 +1,2 @@
 # python_forFun
-some code for fun and learning
+some codes for fun and learning
